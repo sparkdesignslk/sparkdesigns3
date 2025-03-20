@@ -100,12 +100,10 @@ img {
    ABOUT SECTION
 ============================= */
 .about--banner {
-    background-image: url("assets/img/contact-visual.png");
+    background-image: url('assets/img/about-bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-}
-{
     color: white;
     padding: 50px;
     display: flex;
