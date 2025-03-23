@@ -34,8 +34,8 @@
 
 @font-face {
     font-family: 'Melete';
-    src: url('/assets/fonts/Melete-Light.ttf') format('truetype');
-	src: local("☺"), url("fonts/Melete-Light.woff") format("woff"), url("fonts/Melete-Light.ttf") format("truetype"), url("fonts/Melete-Light.svg") format("svg");
+    src: url('/assets/fonts/Melete-Light.eot');
+    src: local("☺"), url("fonts/Melete-Light.woff") format("woff"), url("fonts/Melete-Light.ttf") format("truetype"), url("fonts/Melete-Light.svg") format("svg");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -43,8 +43,8 @@
 
 @font-face {
     font-family: 'Melete';
-    src: url('/assets/fonts/Melete-Bold.ttf') format('truetype');
-	src: local("☺"), url("fonts/Melete-Bold.woff") format("woff"), url("fonts/Melete-Bold.ttf") format("truetype"), url("fonts/Melete-Bold.svg") format("svg");
+    src: url('/assets/fonts/Melete-Bold.ttf');
+    src: local("☺"), url("fonts/Melete-Bold.woff") format("woff"), url("fonts/Melete-Bold.ttf") format("truetype"), url("fonts/Melete-Bold.svg") format("svg");
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -52,8 +52,8 @@
 
 @font-face {
     font-family: 'Melete';
-    src: url('/assets/fonts/Melete-Medium.ttf') format('truetype');
-	src: local("☺"), url("fonts/Melete-Medium.woff") format("woff"), url("fonts/Melete-Medium.ttf") format("truetype"), url("fonts/Melete-Medium.svg") format("svg");
+    src: url('/assets/fonts/Melete-Medium.ttf');
+    src: local("☺"), url("fonts/Melete-Medium.woff") format("woff"), url("fonts/Melete-Medium.ttf") format("truetype"), url("fonts/Melete-Medium.svg") format("svg");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -61,8 +61,8 @@
 
 @font-face {
     font-family: 'Melete';
-    src: url('/assets/fonts/Melete-Regular.ttf') format('truetype');
-	src: local("☺"), url("fonts/Melete-Regular.woff") format("woff"), url("fonts/Melete-Regular.ttf") format("truetype"), url("fonts/Melete-Regular.svg") format("svg");
+    src: url('/assets/fonts/Melete-Regular.ttf');
+    src: local("☺"), url("fonts/Melete-Regular.woff") format("woff"), url("fonts/Melete-Regular.ttf") format("truetype"), url("fonts/Melete-Regular.svg") format("svg");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
