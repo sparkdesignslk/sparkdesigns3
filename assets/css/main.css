@@ -871,9 +871,17 @@ body {
 	.intro--banner h1 {
 		font-size: 1rem
 	}
+	
+	.intro--banner h3 {
+		font-size: 1rem
+	}
 
 	.intro--banner img {
 		width: 230px
+		display: flex; position: absolute;
+		top: 250px; 
+		right: 0; 
+		width: 330px
 	}
 
 	.intro--options>a {
@@ -891,6 +899,10 @@ body {
 	}
 
 	.intro--banner h1 {
+		font-size: 1rem
+	}
+	
+	.intro--banner h3 {
 		font-size: 1rem
 	}
 
