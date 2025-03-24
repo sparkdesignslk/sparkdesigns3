@@ -924,6 +924,9 @@ body {
 	.intro--banner h1 {
 		font-size: 2rem
 	}
+	.intro--banner h3 {
+		font-size: 1rem
+	}
 
 	.intro--banner img {
 		
