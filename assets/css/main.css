@@ -369,7 +369,7 @@ body {
 
 @media (max-width: 1180px) {
 	.l-side-nav {
-		display: flex;
+		display: none;
 	}
 }
 
@@ -873,7 +873,7 @@ body {
 	}
 
 	.intro--banner img {
-		width: 430px
+		width: 230px
 	}
 
 	.intro--options>a {
