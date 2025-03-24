@@ -950,7 +950,7 @@ body {
 
 @media (max-width: 600px) and (max-height: 750px) {
 .intro--banner {
-		height: 380px
+		height: 100px
 	}
 
 	.intro--banner h1 {
@@ -964,7 +964,7 @@ body {
 	.intro--banner img {
 		display: flex; position: absolute;
 		top: 250px; 
-		right: 0; 
+		right: 10px; 
 		width: 330px
 	}
 
