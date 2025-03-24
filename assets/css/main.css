@@ -369,7 +369,7 @@ body {
 
 @media (max-width: 1180px) {
 	.l-side-nav {
-		display: none
+		display: flex;
 	}
 }
 
