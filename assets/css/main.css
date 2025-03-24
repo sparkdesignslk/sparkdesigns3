@@ -923,7 +923,7 @@ body {
 	}
 
 	.intro--banner img {
-		position: relative; 
+		position: absolute; 
 		margin-top: 50px
 		display: flex;
 	}
